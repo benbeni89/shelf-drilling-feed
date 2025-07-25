@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Shelf Drilling - Teknisk Analyse og Nyheter</title>
+    <link>https://example.com/shelf-drilling</link>
+    <description>Oppdateringer om tekniske indikatorer og nyheter for Shelf Drilling</description>
+    <language>no</language>
+    <pubDate>Fri, 25 Jul 2025 02:59:18 GMT</pubDate>
+
+    <item>
+        <title>Teknisk oppdatering - Shelf Drilling</title>
+        <link>https://example.com/shelf-drilling/2024-07-21</link>
+        <description>
+            RSI: 52,5 (nøytral), MACD: 0,09 (kjøpssignal), Stochastic RSI: 21,2 (oversolgt).
+            Aksjen holder seg over støtte på 8,20 kr. Neste motstand ved 9,10 kr.
+        </description>
+        <pubDate>Fri, 25 Jul 2025 02:59:18 GMT</pubDate>
+        <guid>https://example.com/shelf-drilling/2024-07-21</guid>
+    </item>
+
+</channel>
+</rss>
